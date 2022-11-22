@@ -9,6 +9,19 @@ import android.webkit.WebView;
 import android.widget.TextView;
 import android.webkit.JavascriptInterface;
 
+// Opal Three Address Code Builder doesn't work for android, so I had to manually declare R class
+/*
+class R {
+    static class id {
+        static Integer webview;
+        static Integer text;
+    }
+
+    static class layout {
+        static Integer activity_main;
+    }
+}
+ */
 
 public class MainActivity extends AppCompatActivity {
     @Override

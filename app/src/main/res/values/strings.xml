@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JsTest</string>
+    <string name="javascript_result">JavaScript Result:</string>
 </resources>
